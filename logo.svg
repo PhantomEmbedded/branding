@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="130"
+     inkscape:cx="72.857143"
      inkscape:cy="622.85714"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
@@ -53,25 +53,39 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2" />
+     inkscape:label="Layer 2">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3713-3"
+       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#578eb3;fill-opacity:1;stroke:none"
+       transform="matrix(1.3175873,0,0,1.3175873,-159.36516,-220.70656)"><flowRegion
+         id="flowRegion3715-6"
+         style="font-size:192px;line-height:1.25;fill:#578eb3;fill-opacity:1"><rect
+           id="rect3717-7"
+           width="697.14288"
+           height="745.71429"
+           x="177.14285"
+           y="164"
+           style="font-size:192px;line-height:1.25;fill:#578eb3;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3719-5"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.42169189px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#578eb3;fill-opacity:1">E</flowPara></flowRoot>  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-26.067131)">
+     id="layer1">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3713"
-       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5858bc;fill-opacity:1;stroke:none;"
-       transform="matrix(1.3175873,0,0,1.3175873,-172.75764,-194.63942)"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:192px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5858bc;fill-opacity:1;stroke:none"
+       transform="matrix(1.3175873,0,0,1.3175873,-190.96398,-220.70656)"><flowRegion
          id="flowRegion3715"
-         style="font-size:192px;line-height:1.25;fill:#5858bc;fill-opacity:1;"><rect
+         style="font-size:192px;line-height:1.25;fill:#5858bc;fill-opacity:1"><rect
            id="rect3717"
            width="697.14288"
            height="745.71429"
            x="177.14285"
            y="164"
-           style="font-size:192px;line-height:1.25;fill:#5858bc;fill-opacity:1;" /></flowRegion><flowPara
+           style="font-size:192px;line-height:1.25;fill:#5858bc;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3719"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.42169189px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#5858bc;fill-opacity:1;">P</flowPara></flowRoot>  </g>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:187.42169189px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#5858bc;fill-opacity:1">P</flowPara></flowRoot>  </g>
 </svg>
